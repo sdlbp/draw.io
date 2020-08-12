@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2020-08-12T08:37:31.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="LddDRBN1mzZrd9S1Qq41" version="13.6.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="J98Wid4uAbnmdr_vRsFJ-0" value="实验室待填报" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J98Wid4uAbnmdr_vRsFJ-1" value="实验室重新填报" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J98Wid4uAbnmdr_vRsFJ-3" value="&lt;div&gt;0: &#39;待开始&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1: &#39;外业进行中&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2: &#39;外业调查暂停&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3: &#39;实验室待填报&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 5: &#39;实验室填报完成&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 6: &#39;审核不通过&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 7: &#39;外业重新调查中&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 8: &#39;外业重新调查暂停&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 9: &#39;实验室待重新填报&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 10: &#39;实验室重新填报完成&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 11: &#39;审核通过&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="10" width="210" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
